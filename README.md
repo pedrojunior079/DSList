@@ -1,6 +1,6 @@
 
 # DSList
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedrojunior079/dslist/blob/main/LICENSE) 
 
 DSList é uma aplicação back end web construída durante o **Intensivão JavaSpring** que ocorreu nos dias 8 a 14 de maio, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
